@@ -3,7 +3,9 @@ My name is William Ko
 
 I am a third year student at the University of British Columbia currently majoring in Cognitive Systems: Brain and Cognition stream
 
-My skills include JavaScript, Java, C++, Python, CSS, HTML, and PHP (it has been a while though so I am a tad rusty and will need to review XD)
+My skills include JavaScript, Java, C++, Python, CSS, HTML, and PHP
+
+**I am someone with Autism Spectrum Disorder, but I don't see it as a weakness but as someone that has a unique perspective on life and on projects. **
 
 Below are all my projects that I have worked on in the past. 
 
