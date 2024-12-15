@@ -1,11 +1,13 @@
 ### Hi there 👋
 My name is William Ko
 
-I am a second year student at the University of British Columbia currently majoring in Cognitive Systems: Brain and Cognition stream
+I am a third year student at the University of British Columbia currently majoring in Cognitive Systems: Brain and Cognition stream
 
 My skills include JavaScript, Java, C++, Python, CSS, HTML, and PHP (it has been a while though so I am a tad rusty and will need to review XD)
 
-Below are all my projects that I have worked on in the past. I also worked on some Code.org projects as some of my earliest games
+Below are all my projects that I have worked on in the past. 
+
+I also worked on some Code.org projects as some of my earliest games (below are my highschool projects). All my university projects are in their own repositories below
 
 TriviaTerra: This trivia game was made as the final project for my AP Computer Science Principles Course 
     https://studio.code.org/projects/applab/mB11ThvaAi6DgQnAr5lTDq-AjgOSvmQp3Vfa880bOmc
