@@ -7,7 +7,10 @@ My skills include JavaScript, Java, C++, Python, CSS, HTML, and PHP
 
 I am someone with **Autism Spectrum Disorder**, but I don't see it as a weakness but as someone that has a unique perspective on life and on projects.
 
-Below are all my projects that I have worked on in the past. 
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Below are all my projects that I have worked on in the past that I was unable to load into my GitHub as code, but wanted to save these projects as they were still a part of my coding history and development.
 
 I also worked on some Code.org projects as some of my earliest games (below are my highschool projects). All my university projects are in their own repositories below
 
