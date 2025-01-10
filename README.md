@@ -1,7 +1,7 @@
 ### Hi there 👋
 My name is William Ko
 
-I am a third year student at the University of British Columbia currently majoring in Cognitive Systems: Brain and Cognition stream
+I am a third year student at the University of British Columbia currently majoring in Cognitive Systems: Brain and Cognition stream. For those unfamiliar with this degree, this degree combines Computer Science, Psychology, Philosophy, and Linguistics together in looking at Artificial Intelligence research from many different facets. 
 
 My skills include JavaScript, Java, C++, Python, CSS, HTML, and PHP
 
